@@ -10,7 +10,7 @@ GEM
       thread_safe (~> 0.3, >= 0.3.1)
     domain_name (0.5.20170404)
       unf (>= 0.0.5, < 1.0.0)
-    dotenv (2.2.2)
+    dotenv (2.7.6)
     faraday (0.12.2)
       multipart-post (>= 1.2, < 3)
     github_api (0.18.2)
