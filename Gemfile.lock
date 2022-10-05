@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.2)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
     builder (3.2.3)
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
@@ -47,7 +47,7 @@ GEM
       nokogiri (>= 1.5.5)
       nokogiri-happymapper (>= 0.5.4)
       rest-client (>= 1.8.0)
-    public_suffix (3.0.2)
+    public_suffix (5.0.0)
     rack (2.0.6)
     rest-client (2.0.2)
       http-cookie (>= 1.0.2, < 2.0)
